@@ -14,7 +14,7 @@ forgotten it.
 **Berny Valverde G.**
 
 * [LinkedIn](linkedin.com/in/vgberny/)
-* [Personal page](https://vgberny.pythonanywhere.com)
+* [Personal page](www.vgberny.com)
 
 ## Link to the page
-- [Web playground](https://web-production-c5fb.up.railway.app)
+- [Web playground](social-networkv2.up.railway.app)
