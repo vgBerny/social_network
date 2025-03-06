@@ -33,7 +33,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['social-networkv2.up.railway.app', '127.0.0.1', 'http://social-networkv2.up.railway.app']
+ALLOWED_HOSTS = ['social-networkv2.up.railway.app', ,'localhost', 'http://social-networkv2.up.railway.app', '127.0.0.1']
 
 
 # Application definition
@@ -164,4 +164,4 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
-CSRF_TRUSTED_ORIGINS = ['http://*','social-networkv2.up.railway.app', 'http://social-networkv2.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['http://*','http://social-networkv2.up.railway.app']
